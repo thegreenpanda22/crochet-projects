@@ -56,3 +56,8 @@ img {
   width: 200px;
   overflow: auto;
 }
+
+q {
+  background-color: #e5e7eb;
+  text-align: center;
+}
