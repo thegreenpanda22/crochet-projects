@@ -15,14 +15,26 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 30px;
+  gap: 10px;
+}
+
+.header-logo {
+  margin-right: auto;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  flex: 1;
+  margin-bottom: 35px;
+  justify-content: center;
 }
 
 .title {
   display: flex;
+  flex-direction: column;
   padding: 30px;
-  margin: 20px;
   gap: 15px;
-  margin-bottom: 35px;
 }
 
 img {
